@@ -22,3 +22,6 @@ https://www.youtube.com/watch?v=Wqf2GimAlWo
 https://www.youtube.com/watch?v=2Pd0YExeC5o&t=788s
 https://www.youtube.com/watch?v=VVKcSf6r3CM
 https://cookbook.openai.com/examples/chat_finetuning_data_prep
+
+
+https://www.e2enetworks.com/blog/a-step-by-step-guide-to-fine-tuning-the-mistral-7b-llm
